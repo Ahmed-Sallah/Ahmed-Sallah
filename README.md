@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Ahmed Salah, A MEAN Stack Developer</p>
+<h3 align="center">My name is Ahmed Salah, I'm a MEAN Stack Developer who loves to create very handsome websites 😎</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
@@ -33,7 +33,6 @@
 </div>
 
 ###
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-salah-0b3a51237/" target="_blank">
