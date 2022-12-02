@@ -32,11 +32,6 @@
   <img src="https://profile-counter.glitch.me/Ahmed-Sallah/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ahmed-Sallah/Ahmed-Sallah/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-salah-0b3a51237/" target="_blank">
