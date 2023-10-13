@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Ahmed Salah, I'm a MEAN Stack Developer who loves to create very handsome websites 😎</h3>
+<h3 align="center">My name is Ahmed Salah, I'm a Web Developer who loves to create very handsome websites 😎</h3>
 
 ###
 
